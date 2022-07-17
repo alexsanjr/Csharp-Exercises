@@ -10,6 +10,7 @@ namespace CotacaoDolar {
             Console.Write("Quantos dólares você vai comprar?  ");
             double valor = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
+            Console.WriteLine("aaaa");
             Console.WriteLine($"Valor a ser pago em reais = {ConversorDeMoeda.Valor(valor, cotacao).ToString("F2", CultureInfo.InvariantCulture)} ");
 
         }
