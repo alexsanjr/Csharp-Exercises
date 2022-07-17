@@ -1,0 +1,8 @@
+E:\Documentos\Curso\Csharp\_Curso\seção 5\ExercicioBanco\ExercicioBanco\bin\Debug\ExercicioBanco.exe.config
+E:\Documentos\Curso\Csharp\_Curso\seção 5\ExercicioBanco\ExercicioBanco\bin\Debug\ExercicioBanco.exe
+E:\Documentos\Curso\Csharp\_Curso\seção 5\ExercicioBanco\ExercicioBanco\bin\Debug\ExercicioBanco.pdb
+E:\Documentos\Curso\Csharp\_Curso\seção 5\ExercicioBanco\ExercicioBanco\obj\Debug\ExercicioBanco.csproj.AssemblyReference.cache
+E:\Documentos\Curso\Csharp\_Curso\seção 5\ExercicioBanco\ExercicioBanco\obj\Debug\ExercicioBanco.csproj.SuggestedBindingRedirects.cache
+E:\Documentos\Curso\Csharp\_Curso\seção 5\ExercicioBanco\ExercicioBanco\obj\Debug\ExercicioBanco.csproj.CoreCompileInputs.cache
+E:\Documentos\Curso\Csharp\_Curso\seção 5\ExercicioBanco\ExercicioBanco\obj\Debug\ExercicioBanco.exe
+E:\Documentos\Curso\Csharp\_Curso\seção 5\ExercicioBanco\ExercicioBanco\obj\Debug\ExercicioBanco.pdb

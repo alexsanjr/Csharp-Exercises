@@ -1,0 +1,8 @@
+E:\Documentos\Curso\Csharp\_Curso\seção 3\Exercicio3\Exercicio3\bin\Debug\Exercicio3.exe.config
+E:\Documentos\Curso\Csharp\_Curso\seção 3\Exercicio3\Exercicio3\bin\Debug\Exercicio3.exe
+E:\Documentos\Curso\Csharp\_Curso\seção 3\Exercicio3\Exercicio3\bin\Debug\Exercicio3.pdb
+E:\Documentos\Curso\Csharp\_Curso\seção 3\Exercicio3\Exercicio3\obj\Debug\Exercicio3.csproj.AssemblyReference.cache
+E:\Documentos\Curso\Csharp\_Curso\seção 3\Exercicio3\Exercicio3\obj\Debug\Exercicio3.csproj.SuggestedBindingRedirects.cache
+E:\Documentos\Curso\Csharp\_Curso\seção 3\Exercicio3\Exercicio3\obj\Debug\Exercicio3.csproj.CoreCompileInputs.cache
+E:\Documentos\Curso\Csharp\_Curso\seção 3\Exercicio3\Exercicio3\obj\Debug\Exercicio3.exe
+E:\Documentos\Curso\Csharp\_Curso\seção 3\Exercicio3\Exercicio3\obj\Debug\Exercicio3.pdb

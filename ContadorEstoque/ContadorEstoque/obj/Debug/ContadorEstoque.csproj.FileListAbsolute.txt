@@ -1,0 +1,8 @@
+E:\Documentos\Curso\Csharp\_Curso\seção 4\ContadorEstoque\ContadorEstoque\bin\Debug\ContadorEstoque.exe.config
+E:\Documentos\Curso\Csharp\_Curso\seção 4\ContadorEstoque\ContadorEstoque\bin\Debug\ContadorEstoque.exe
+E:\Documentos\Curso\Csharp\_Curso\seção 4\ContadorEstoque\ContadorEstoque\bin\Debug\ContadorEstoque.pdb
+E:\Documentos\Curso\Csharp\_Curso\seção 4\ContadorEstoque\ContadorEstoque\obj\Debug\ContadorEstoque.csproj.AssemblyReference.cache
+E:\Documentos\Curso\Csharp\_Curso\seção 4\ContadorEstoque\ContadorEstoque\obj\Debug\ContadorEstoque.csproj.SuggestedBindingRedirects.cache
+E:\Documentos\Curso\Csharp\_Curso\seção 4\ContadorEstoque\ContadorEstoque\obj\Debug\ContadorEstoque.csproj.CoreCompileInputs.cache
+E:\Documentos\Curso\Csharp\_Curso\seção 4\ContadorEstoque\ContadorEstoque\obj\Debug\ContadorEstoque.exe
+E:\Documentos\Curso\Csharp\_Curso\seção 4\ContadorEstoque\ContadorEstoque\obj\Debug\ContadorEstoque.pdb

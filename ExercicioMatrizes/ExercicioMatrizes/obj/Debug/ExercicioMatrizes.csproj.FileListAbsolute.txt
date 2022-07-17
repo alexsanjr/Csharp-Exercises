@@ -1,0 +1,8 @@
+E:\Documentos\Curso\Csharp\_Curso\seção 6\ExercicioMatrizes\ExercicioMatrizes\bin\Debug\ExercicioMatrizes.exe.config
+E:\Documentos\Curso\Csharp\_Curso\seção 6\ExercicioMatrizes\ExercicioMatrizes\bin\Debug\ExercicioMatrizes.exe
+E:\Documentos\Curso\Csharp\_Curso\seção 6\ExercicioMatrizes\ExercicioMatrizes\bin\Debug\ExercicioMatrizes.pdb
+E:\Documentos\Curso\Csharp\_Curso\seção 6\ExercicioMatrizes\ExercicioMatrizes\obj\Debug\ExercicioMatrizes.csproj.AssemblyReference.cache
+E:\Documentos\Curso\Csharp\_Curso\seção 6\ExercicioMatrizes\ExercicioMatrizes\obj\Debug\ExercicioMatrizes.csproj.SuggestedBindingRedirects.cache
+E:\Documentos\Curso\Csharp\_Curso\seção 6\ExercicioMatrizes\ExercicioMatrizes\obj\Debug\ExercicioMatrizes.csproj.CoreCompileInputs.cache
+E:\Documentos\Curso\Csharp\_Curso\seção 6\ExercicioMatrizes\ExercicioMatrizes\obj\Debug\ExercicioMatrizes.exe
+E:\Documentos\Curso\Csharp\_Curso\seção 6\ExercicioMatrizes\ExercicioMatrizes\obj\Debug\ExercicioMatrizes.pdb

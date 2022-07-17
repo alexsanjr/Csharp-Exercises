@@ -1,0 +1,8 @@
+E:\Documentos\Curso\Csharp\_Curso\seção 4\LerFuncionario\LerFuncionario\bin\Debug\LerFuncionario.exe.config
+E:\Documentos\Curso\Csharp\_Curso\seção 4\LerFuncionario\LerFuncionario\bin\Debug\LerFuncionario.exe
+E:\Documentos\Curso\Csharp\_Curso\seção 4\LerFuncionario\LerFuncionario\bin\Debug\LerFuncionario.pdb
+E:\Documentos\Curso\Csharp\_Curso\seção 4\LerFuncionario\LerFuncionario\obj\Debug\LerFuncionario.csproj.AssemblyReference.cache
+E:\Documentos\Curso\Csharp\_Curso\seção 4\LerFuncionario\LerFuncionario\obj\Debug\LerFuncionario.csproj.SuggestedBindingRedirects.cache
+E:\Documentos\Curso\Csharp\_Curso\seção 4\LerFuncionario\LerFuncionario\obj\Debug\LerFuncionario.csproj.CoreCompileInputs.cache
+E:\Documentos\Curso\Csharp\_Curso\seção 4\LerFuncionario\LerFuncionario\obj\Debug\LerFuncionario.exe
+E:\Documentos\Curso\Csharp\_Curso\seção 4\LerFuncionario\LerFuncionario\obj\Debug\LerFuncionario.pdb

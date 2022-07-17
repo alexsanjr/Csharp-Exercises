@@ -1,0 +1,8 @@
+E:\Documentos\Curso\Csharp\_Curso\seção 4\FormadorRetangulo\FormadorRetangulo\bin\Debug\FormadorRetangulo.exe.config
+E:\Documentos\Curso\Csharp\_Curso\seção 4\FormadorRetangulo\FormadorRetangulo\bin\Debug\FormadorRetangulo.exe
+E:\Documentos\Curso\Csharp\_Curso\seção 4\FormadorRetangulo\FormadorRetangulo\bin\Debug\FormadorRetangulo.pdb
+E:\Documentos\Curso\Csharp\_Curso\seção 4\FormadorRetangulo\FormadorRetangulo\obj\Debug\FormadorRetangulo.csproj.AssemblyReference.cache
+E:\Documentos\Curso\Csharp\_Curso\seção 4\FormadorRetangulo\FormadorRetangulo\obj\Debug\FormadorRetangulo.csproj.SuggestedBindingRedirects.cache
+E:\Documentos\Curso\Csharp\_Curso\seção 4\FormadorRetangulo\FormadorRetangulo\obj\Debug\FormadorRetangulo.csproj.CoreCompileInputs.cache
+E:\Documentos\Curso\Csharp\_Curso\seção 4\FormadorRetangulo\FormadorRetangulo\obj\Debug\FormadorRetangulo.exe
+E:\Documentos\Curso\Csharp\_Curso\seção 4\FormadorRetangulo\FormadorRetangulo\obj\Debug\FormadorRetangulo.pdb

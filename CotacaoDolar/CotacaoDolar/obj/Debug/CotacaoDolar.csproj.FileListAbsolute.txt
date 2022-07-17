@@ -1,0 +1,8 @@
+E:\Documentos\Curso\Csharp\_Curso\seção 4\CotacaoDolar\CotacaoDolar\bin\Debug\CotacaoDolar.exe.config
+E:\Documentos\Curso\Csharp\_Curso\seção 4\CotacaoDolar\CotacaoDolar\bin\Debug\CotacaoDolar.exe
+E:\Documentos\Curso\Csharp\_Curso\seção 4\CotacaoDolar\CotacaoDolar\bin\Debug\CotacaoDolar.pdb
+E:\Documentos\Curso\Csharp\_Curso\seção 4\CotacaoDolar\CotacaoDolar\obj\Debug\CotacaoDolar.csproj.AssemblyReference.cache
+E:\Documentos\Curso\Csharp\_Curso\seção 4\CotacaoDolar\CotacaoDolar\obj\Debug\CotacaoDolar.csproj.SuggestedBindingRedirects.cache
+E:\Documentos\Curso\Csharp\_Curso\seção 4\CotacaoDolar\CotacaoDolar\obj\Debug\CotacaoDolar.csproj.CoreCompileInputs.cache
+E:\Documentos\Curso\Csharp\_Curso\seção 4\CotacaoDolar\CotacaoDolar\obj\Debug\CotacaoDolar.exe
+E:\Documentos\Curso\Csharp\_Curso\seção 4\CotacaoDolar\CotacaoDolar\obj\Debug\CotacaoDolar.pdb
